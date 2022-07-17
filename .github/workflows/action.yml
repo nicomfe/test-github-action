@@ -10,7 +10,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: 🏗 Setup repo
+      - name: 🏗 Setup repo.
         uses: actions/checkout@v2
 
       - name: 🏗 Setup Node
